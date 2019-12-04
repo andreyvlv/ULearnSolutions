@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yield-return-smooth", "Ulea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketBot", "ULearnRocketBot\RocketBot.csproj", "{1F488037-ECC6-4870-BC6A-31F459A4295F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentation", "Documentation\Documentation.csproj", "{9AD01DC1-9659-48CC-9CAB-55B5FB3F1BC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1F488037-ECC6-4870-BC6A-31F459A4295F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F488037-ECC6-4870-BC6A-31F459A4295F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F488037-ECC6-4870-BC6A-31F459A4295F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD01DC1-9659-48CC-9CAB-55B5FB3F1BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD01DC1-9659-48CC-9CAB-55B5FB3F1BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD01DC1-9659-48CC-9CAB-55B5FB3F1BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD01DC1-9659-48CC-9CAB-55B5FB3F1BC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
