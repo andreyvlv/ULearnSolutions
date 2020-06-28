@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketBot", "ULearnRocketBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentaion", "Documentaion\Documentaion.csproj", "{BC155F0C-5AB9-4E87-9768-56A3839A9C5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesTreeTraversal", "DelegatesTreeTraversal\DelegatesTreeTraversal.csproj", "{2552C716-F8B5-40E4-B49F-A35621C652A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BC155F0C-5AB9-4E87-9768-56A3839A9C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC155F0C-5AB9-4E87-9768-56A3839A9C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC155F0C-5AB9-4E87-9768-56A3839A9C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
