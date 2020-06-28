@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesTreeTraversal", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTables", "GenericTables\GenericTables.csproj", "{942C4CBA-964A-4110-A648-304B36BC375D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesPairAnalysis", "DelegatesPairAnalysis\DelegatesPairAnalysis.csproj", "{7C13EC03-194E-4454-AED3-3E6B8A339A06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{942C4CBA-964A-4110-A648-304B36BC375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942C4CBA-964A-4110-A648-304B36BC375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942C4CBA-964A-4110-A648-304B36BC375D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C13EC03-194E-4454-AED3-3E6B8A339A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C13EC03-194E-4454-AED3-3E6B8A339A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C13EC03-194E-4454-AED3-3E6B8A339A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C13EC03-194E-4454-AED3-3E6B8A339A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
