@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentaion", "Documentaio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesTreeTraversal", "DelegatesTreeTraversal\DelegatesTreeTraversal.csproj", "{2552C716-F8B5-40E4-B49F-A35621C652A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTables", "GenericTables\GenericTables.csproj", "{942C4CBA-964A-4110-A648-304B36BC375D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2552C716-F8B5-40E4-B49F-A35621C652A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942C4CBA-964A-4110-A648-304B36BC375D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942C4CBA-964A-4110-A648-304B36BC375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942C4CBA-964A-4110-A648-304B36BC375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942C4CBA-964A-4110-A648-304B36BC375D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
