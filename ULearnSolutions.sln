@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Names", "Names\Names.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonFractal", "DragonFractal\DragonFractal.csproj", "{3CE4B9D5-70FE-4096-9786-F521D52938ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clones", "Clones\Clones.csproj", "{D8250791-4620-4E4A-BB40-0C5B0736C31F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3CE4B9D5-70FE-4096-9786-F521D52938ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE4B9D5-70FE-4096-9786-F521D52938ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE4B9D5-70FE-4096-9786-F521D52938ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8250791-4620-4E4A-BB40-0C5B0736C31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8250791-4620-4E4A-BB40-0C5B0736C31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8250791-4620-4E4A-BB40-0C5B0736C31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8250791-4620-4E4A-BB40-0C5B0736C31F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
